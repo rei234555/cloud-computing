@@ -1,0 +1,7 @@
+{
+    "name": "laravel/framework",
+    "description": "coba",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
